@@ -1,6 +1,7 @@
 # sqa_exam_dates
 
 Short script to convert SQA exam datas file into more numerical data
+
 Beta version, please double check all figures
 https://github.com/mrcrookes/sqa_exam_dates
 
